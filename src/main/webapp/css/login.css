@@ -1,0 +1,16 @@
+.signup{
+width:200px;
+height:200px;
+
+}
+.login{
+width: 200px;
+    height: 200px;
+}
+#email,#password.#s_email,#s_password{
+font-size:16px;
+color:green;
+}
+.text{
+font-size:23px;
+}
